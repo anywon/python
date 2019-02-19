@@ -1,0 +1,7 @@
+aiofiles==0.4.0
+apistar==0.5.41
+uvicorn==0.3.5
+motor==2.0.0
+python-etcd==0.4.5
+aioredis==1.1.0
+pathlib==1.0.1
